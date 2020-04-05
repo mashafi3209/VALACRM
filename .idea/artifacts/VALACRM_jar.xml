@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VALACRM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VALACRM_jar</output-path>
+    <root id="archive" name="VALACRM.jar">
+      <element id="module-output" name="VALACRM" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/res/h2-1.4.199.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
